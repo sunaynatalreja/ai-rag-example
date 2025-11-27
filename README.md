@@ -1,1 +1,1 @@
-# azure-ai-rag-framework
+# ai-rag-example
